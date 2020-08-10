@@ -1,0 +1,31 @@
+{
+  "name": "eservices",
+  "version": "1.0.0",
+  "description": "An online services for Cebu workers",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giddyupyup/eservices.git"
+  },
+  "author": "Gideon Arces",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giddyupyup/eservices/issues"
+  },
+  "homepage": "https://github.com/giddyupyup/eservices#readme",
+  "devDependencies": {
+    "eslint": "^7.6.0",
+    "jest": "^26.2.2",
+    "sequelize-cli": "^6.2.0"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "mysql2": "^2.1.0",
+    "sequelize": "^6.3.4"
+  }
+}
