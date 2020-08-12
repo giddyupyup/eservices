@@ -4,7 +4,8 @@
   "description": "An online services for Cebu workers",
   "main": "app.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "sqlz-cli:seed-generate": "sequelize-cli seed:generate"
   },
   "repository": {
     "type": "git",

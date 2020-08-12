@@ -1,8 +1,6 @@
 # ignore packages installed by npm
 node_modules
 coverage
-migrations
-seeders
 *~
 .DS_Store
 
